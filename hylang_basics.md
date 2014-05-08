@@ -1,6 +1,17 @@
 Hylang Basics
 =============
 
+Hylang is an _AWESOME_ idea and project. It has full bidirectional interop between the lisp dialect and python. From their project page:
+
+>This is pretty cool because it means Hy is several things:
+
+> * A lisp that feels very pythonic
+> * For lispers, a great way to use lisp’s crazy powers but in the wide world of Python’s libraries (why yes, you now can write a Django application in lisp!)
+> * For pythonistas, a great way to start exploring lisp, from the comfort of python!
+> * For everyone: a pleasant language that has a lot of neat ideas!
+
+_[Reference](http://docs.hylang.org/en/latest/tutorial.html)_
+
 Getting into the hy repl is easy:
 
 ```bash
