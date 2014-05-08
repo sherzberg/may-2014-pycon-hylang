@@ -56,3 +56,8 @@ This repo and workshop could not have been possible without:
 * [Pyowa Users Group](http://www.pyowa.org/) for raffling a free registration ticket
 * [Paul Tagliamonte](https://twitter.com/paultag) and the [HySociety](https://github.com/hylang/hy/graphs/contributors) for hylang and his awesome talk at PyCon
  * [Video](http://www.pyvideo.org/video/2616/getting-hy-on-python-how-to-implement-a-lisp-fro)
+
+Where to go from here?
+----------------------
+
+* [macropy](https://github.com/lihaoyi/macropy)
