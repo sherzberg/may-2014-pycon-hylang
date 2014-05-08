@@ -35,7 +35,7 @@ Goals
 -----
 
 * Learn about PyCon2014 and why you should go
-* Get an abvriviated overview of Hy
+* Get an abbreviated overview of Hy
 * Learn how to look at and possibly use Python AST
 * Learn how Hy uses the Python AST
 
