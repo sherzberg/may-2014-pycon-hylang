@@ -35,5 +35,4 @@ Workshop overview
 
 * [Hylang basics](hylang_basics.md)
 * [Running scripts](running_scripts.md)
-* Examining hylang to python AST
-* Moar AST please
+* [Whats AST?](whats_ast.md)
