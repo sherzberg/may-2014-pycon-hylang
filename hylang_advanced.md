@@ -1,8 +1,8 @@
 Hylang Advanced
 ===============
 
-[Builtins](http://docs.hylang.org/en/latest/language/api.html#builtins)
-[Core](http://docs.hylang.org/en/latest/language/core.html)
+* [Builtins](http://docs.hylang.org/en/latest/language/api.html#builtins)
+* [Core](http://docs.hylang.org/en/latest/language/core.html)
 
 Helper Macros:
 
