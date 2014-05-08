@@ -50,7 +50,7 @@ Functions?
 => (greet "john")
 hello john
 => (defn greet [name &optional [prefix "hello"]]
-...   (print prefix name)
+...   (print prefix name))
 
 => (greet "john" "hola")
 hola john
