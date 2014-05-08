@@ -45,7 +45,7 @@ Functions?
 
 ```hy
 => (defn greet [name]
-...   (print "hello " name)
+...   (print "hello " name))
 
 => (greet "john")
 hello john
