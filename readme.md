@@ -13,7 +13,8 @@ The speaker was Spencer Herzberg:
 PyCon2014 Recap
 ---------------
 
-_link_
+[Slides](https://docs.google.com/presentation/d/1yo1qLVrTidHiKZDcA_GZRwHxZjM8dgftj7lOCO390gM/edit?usp=sharing) to my recap of PyCon 2014
+
 
 Hylang/AST manipulation workshop
 --------------------------------
