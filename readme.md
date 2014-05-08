@@ -31,6 +31,14 @@ $
 If you get _0.10.0_ printed, you have everything installed correctly.
 We install _0.10.0_  because it has _hy2py_ which is not released yet.
 
+Goals
+-----
+
+* Learn about PyCon2014 and why you should go
+* Get an abvriviated overview of Hy
+* Learn how to look at and possibly use Python AST
+* Learn how Hy uses the Python AST
+
 Workshop overview
 ------------------------
 
