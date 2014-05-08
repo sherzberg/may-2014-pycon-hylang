@@ -38,3 +38,13 @@ Workshop overview
 * [Hylang advanced](hylang_advanced.md)
 * [Running scripts](running_scripts.md)
 * [Whats AST?](whats_ast.md)
+
+Thanks
+------
+
+This repo and workshop could not have been possible without:
+
+* [Source Allies, Inc](http://www.sourceallies.com/) for sending me to PyCon
+* [Pyowa Users Group](http://www.pyowa.org/) for raffling a free registration ticket
+* [Paul Tagliamonte](https://twitter.com/paultag) and the [HySociety](https://github.com/hylang/hy/graphs/contributors) for hylang and his awesome talk at PyCon
+ * [Video](http://www.pyvideo.org/video/2616/getting-hy-on-python-how-to-implement-a-lisp-fro)
