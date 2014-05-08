@@ -33,7 +33,7 @@ We install _0.10.0_  because it has _hy2py_ which is not released yet.
 Workshop overview
 ------------------------
 
-* Hylang basics
+* [Hylang basics](hylang_basics.md)
 * Running scripts
 * Examining hylang to python AST
 * Moar AST please
