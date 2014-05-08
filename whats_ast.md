@@ -38,3 +38,28 @@ Typing strings into _ast.parse_ is no fun, so:
 >>> module.body
 [<_ast.FunctionDef at 0x244c110>]
 ```
+
+Cool. Now lets see how hylang works. If you still have your _myfile.hy_ from before:
+
+```bash
+$ hy2py --with-ast myfile.hy
+```
+
+Nice. What about doing this from the REPL?
+
+```hy
+=> (disassemble `(print "Hello"))   
+Module(body=[Expr(value=Call(func=Name(id='print'), args=[Str(s=u'Hello')], keywords=[], starargs=None, kwargs=None))])
+```
+
+You can also get the python equivalent:
+
+```hy
+=> (disassemble `(print "Hello") true)
+print('Hello')
+```
+
+Exercises:
+
+* Check out what python code is generated for _if_, _even?_, _for_, and any other expressions and macros you want.
+* Whats the ast look like for more complex functions?
