@@ -34,5 +34,6 @@ Workshop overview
 ------------------------
 
 * [Hylang basics](hylang_basics.md)
+* [Hylang advanced](hylang_advanced.md)
 * [Running scripts](running_scripts.md)
 * [Whats AST?](whats_ast.md)
