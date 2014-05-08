@@ -7,7 +7,7 @@ group May 2014 talk.
 The speaker was Spencer Herzberg:
 
 * [https://github.com/sherzberg](https://github.com/sherzberg)
-* [https://twitter.com/linuxconvert](@linuxconvert)
+* [@linuxconvert](https://twitter.com/linuxconvert)
 
 
 PyCon2014 Recap
