@@ -61,3 +61,4 @@ Where to go from here?
 ----------------------
 
 * [macropy](https://github.com/lihaoyi/macropy)
+* [enums with ast](http://blaag.haard.se/Using-the-AST-to-hack-constants-into-Python/)
