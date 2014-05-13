@@ -47,8 +47,8 @@ Workshop overview
 * [Running scripts](running_scripts.md)
 * [Whats AST?](whats_ast.md)
 
-Thanks
-------
+Thanks!
+-------
 
 This repo and workshop could not have been possible without:
 
